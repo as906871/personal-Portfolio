@@ -95,7 +95,7 @@ const ContactUs = () => {
                     </span>
                   </a>
                   <a
-                    href="mailto:akshay@email.com"
+                    href="mailto:akshaysharma981996@gmail.com"
                     className="group border-2 border-cyan-400 hover:bg-cyan-400 hover:text-black px-10 py-5 rounded-full font-bold text-xl transition-all duration-500 transform hover:scale-110 hover:shadow-2xl hover:shadow-cyan-400/50"
                   >
                     <span className="flex items-center justify-center">
